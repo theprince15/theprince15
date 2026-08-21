@@ -218,9 +218,9 @@ A **centralized campus recruitment tracker** with full **Role-Based Access Contr
 
 <div align="center">
 
-<img src="https://github-readme-stats.vercel.app/api?username=theprince15&theme=tokyonight&hide_border=true&include_all_commits=true&count_private=true&show_icons=true" height="180" alt="GitHub Stats"/>
+<img src="https://github-stats-extended.vercel.app/api?username=theprince15&theme=tokyonight&hide_border=true&include_all_commits=true&count_private=true&show_icons=true" height="180" alt="GitHub Stats"/>
 &nbsp;&nbsp;
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=theprince15&theme=tokyonight&hide_border=true&include_all_commits=true&count_private=true&layout=compact" height="180" alt="Top Languages"/>
+<img src="https://github-stats-extended.vercel.app/api/top-langs/?username=theprince15&theme=tokyonight&hide_border=true&include_all_commits=true&count_private=true&layout=compact" height="180" alt="Top Languages"/>
 
 </div>
 
